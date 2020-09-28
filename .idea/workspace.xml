@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6be5d65-3be2-4c57-aef9-3556b407a579" name="Default Changelist" comment="Testing posts">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-09-28.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-    </list>
+    <list default="true" id="c6be5d65-3be2-4c57-aef9-3556b407a579" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +95,7 @@
       <workItem from="1550829674517" duration="707000" />
       <workItem from="1551251464018" duration="566000" />
       <workItem from="1551252211939" duration="672000" />
-      <workItem from="1601268123902" duration="1344000" />
+      <workItem from="1601268123902" duration="1700000" />
     </task>
     <task id="LOCAL-00001" summary="f">
       <created>1550829766339</created>
@@ -125,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1551252573299</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Testing posts">
+      <created>1601269531264</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601269531265</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,13 +134,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="f" />
     <MESSAGE value="new update" />
-    <option name="LAST_COMMIT_MESSAGE" value="new update" />
+    <MESSAGE value="Testing posts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing posts" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1601269036972">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1601269530114">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="88" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601269036972" />
+    <state x="585" y="88" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601269530114" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601269532997">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601269532997" />
   </component>
   <component name="masterDetails">
     <states>
