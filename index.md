@@ -4,3 +4,5 @@
 
 layout: home
 ---
+layout: page
+title: Scribbles by That Guy Lionel
